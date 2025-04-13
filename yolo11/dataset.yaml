@@ -1,4 +1,4 @@
-path: D:/pythonSpace/yoloProject/yolo11/data
+path: D:/studyspace/yoloProject/yolo11/data
 train: images/train
 val: images/val
 test:
